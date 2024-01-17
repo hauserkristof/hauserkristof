@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Kristóf, an experienced technology leader with a proven track record in designing, implementing, and aligning innovative technological visions with overarching business objectives. 
 
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Technologies I use often:
+### Technologies I often use:
 
 #### Languages:
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
