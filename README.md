@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-I'm Kristóf, an experienced technology leader with a proven track record in designing, implementing, and aligning innovative technological visions with overarching business objectives. 
+I'm Kristóf, an experienced technology leader with a proven track record in designing, implementing, and aligning innovative technological visions with overarching business objectives.
 
-With a comprehensive understanding of market dynamics, I bring a strategic mindset to drive the development and execution of forward-thinking strategies that foster innovation, scalability, and sustainable growth. 
+With a comprehensive understanding of market dynamics, I bring a strategic mindset to drive the development and execution of forward-thinking strategies that foster innovation, scalability, and sustainable growth.
 
 <!--
 **hauserkristof/hauserkristof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +50,10 @@ Here are some ideas to get you started:
 
 ![Fusion360](https://img.shields.io/badge/autodesk%20Fusion360-%23000.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Kicad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white) ![STM](https://img.shields.io/badge/STM-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
+### Certification:
+
+<a href="https://www.credly.com/badges/61a96dc3-ac7b-4a04-9d9b-a21211b09e9b/public_url" target="_blank"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practicioner" style="width:200px;"/></a>
 
 ### Metrics
+
 ![Metrics](./github-metrics.svg)
