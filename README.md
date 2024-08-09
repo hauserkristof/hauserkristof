@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 ### Certification
 
 <a href="https://www.credly.com/badges/01fa3293-f28d-4e69-8d94-dc69a425e54b/public_url" target="_blank"><img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" style="width:200px;"/></a>
+<a href="https://www.credly.com/badges/61a96dc3-ac7b-4a04-9d9b-a21211b09e9b/public_url" target="_blank"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practicioner" style="width:200px;"/></a>
 <a href="https://www.credly.com/badges/81c7ea95-b126-43a0-ac9f-dd48eb9df09b/public_url" target="_blank"><img src="https://images.credly.com/images/519a6dba-f145-4c1a-85a2-1d173d6898d9/image.png" alt="AWS Knowledge: Architecting" style="width:200px;"/></a>
 <a href="https://www.credly.com/badges/ad2cea7b-a11d-4106-938d-c4a2a134ce4e/public_url" target="_blank"><img src="https://images.credly.com/images/e07c6cc4-b737-4d7e-8ce8-66b6b7a60367/image.png" alt="AWS Knowledge: Serverless" style="width:200px;"/></a>
-<a href="https://www.credly.com/badges/61a96dc3-ac7b-4a04-9d9b-a21211b09e9b/public_url" target="_blank"><img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Cloud Practicioner" style="width:200px;"/></a>
 <a href="https://www.credly.com/badges/b9ee8cd7-381a-4b6d-a771-206f787b2d17/public_url" target="_blank"><img src="https://images.credly.com/images/a253b994-caa6-4dd1-bf0e-434dd012b1f6/image.png" alt="AWS Technical Accredited Partner" style="width:200px;"/></a>
 <a href="https://www.credly.com/badges/48127b95-acff-4549-9ff2-522217493db3/public_url" target="_blank"><img src="https://images.credly.com/images/87df3ac8-1afb-4bdc-80ee-bef9f8cb65d6/image.png" alt="AWS Sales Accredited Partner" style="width:200px;"/></a>
 
