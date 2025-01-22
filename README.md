@@ -85,6 +85,8 @@ Here are some ideas to get you started:
 
 ![Fusion360](https://img.shields.io/badge/autodesk%20Fusion360-%23000.svg?style=for-the-badge&logo=autodesk&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white) ![Kicad](https://img.shields.io/badge/kicad-%23314CB0.svg?style=for-the-badge&logo=kicad&logoColor=white) ![STM](https://img.shields.io/badge/STM-%2303234B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
+</details>
+
 ### Metrics
 
 ![Metrics](./github-metrics.svg)
